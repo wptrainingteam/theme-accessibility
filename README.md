@@ -106,14 +106,18 @@ Using a theme you are working with or a general web page, try to navigate the s
 3.  alt
 4.  href
 
-**Answer:** 3. alt attribute **Headings such as H3 or H4 should be used for...**
+**Answer:** 3. alt attribute 
+
+**Headings such as H3 or H4 should be used for...**
 
 1.  Emphasizing text
 2.  Organizing content
 3.  Making text look good
 4.  Making lists
 
-**Answer:** 2. Organizing content **Following these steps is everything you need to do to make your theme accessibility-ready.**
+**Answer:** 2. Organizing content 
+
+**Following these steps is everything you need to do to make your theme accessibility-ready.**
 
 1.  True
 2.  False
