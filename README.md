@@ -4,7 +4,7 @@ Making your WordPress theme accessible has multiple benefits. Not only do you ma
 
 ## Description
 
-In this lesson, we'll go over a few basic things that can be incorporated into any theme to make it more accessibility friendly. It will not be a exhaustive list of all the things that can be done for accessibility, but it will give you a good start.
+In this lesson, we'll go over a few basic things that can be incorporated into any theme to make it more accessibility friendly. It will not be an exhaustive list of all the things that can be done for accessibility, but it will give you a good start.
 
 ## Prerequisite Skills
 
