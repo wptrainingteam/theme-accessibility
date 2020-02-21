@@ -56,7 +56,7 @@ It seems self-evident that you should use links for links, but many links are st
 
 ### Use Buttons for Actions
 
-Buttons differ from links in that they DO something. They submit a form, send a message, or reset a page. Buttons are a native HTML feature that are easily used from a keyboard. Browsers and search engines know what to do with them. Example:
+Buttons differ from links in that they DO something. They submit a form, send a message, or reset a page. Buttons are a native HTML feature that is easily used from a keyboard. Browsers and search engines know what to do with them. Example:
 
 <pre><button type="submit">Submit</button></pre>
 
